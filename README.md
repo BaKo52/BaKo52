@@ -4,7 +4,7 @@ I'm a french IT student 🖥️ currently studying in Dijon.<br/>
 Below you can see some interesting facts about my coding habits and my github profile.<br/>
 Enjoy ! 🎊
 
-## ● My most used Languages
+## ● My most used Languages ⌨️
 ![Top Langs Card](https://github-readme-stats.vercel.app/api/top-langs/?username=BaKo52&layout=compact&theme=synthwave&hide=pascal)
 
 ## ● My Public projects 📖
