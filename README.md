@@ -1,18 +1,14 @@
-### Hi there 👋
+# Hello everyone 🖖
 
-<!--
-**BaKo52/BaKo52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a french IT student 🖥️ currently studying in Dijon.<br/>
+Below you can see some interesting facts about my coding habits and my github profile.<br/>
+Enjoy ! 🎊
 
-Here are some ideas to get you started:
+## ● My most used Languages
+[![Top Langs Card](https://github-readme-stats.vercel.app/api/top-langs/?username=BaKo52&layout=compact&theme=tokyonight&hide=pascal)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ● My Public projects 📖
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bako52&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bako52&layout=compact&theme=tokyonight&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+## ● Some infos on my streaks ✔️
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BaKo52&theme=tokyonight)](https://git.io/streak-stats)
