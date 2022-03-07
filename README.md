@@ -12,3 +12,6 @@ Enjoy ! 🎊
 
 ## ● Some infos on my streaks ✔️
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BaKo52&theme=midnight-purple)](https://git.io/streak-stats)
+
+## ● Contact 📫
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ba-ko/)
