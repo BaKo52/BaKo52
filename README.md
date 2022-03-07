@@ -18,7 +18,7 @@ Enjoy ! 🎊
 ![DotNet](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-(Imagine a unreal Engine badge is here)
+(Imagine an Unreal Engine badge is here)
 
 ## ● My Public projects 📖
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bako52&show_icons=true&theme=midnight-purple)
