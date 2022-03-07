@@ -5,7 +5,7 @@ Below you can see some interesting facts about my coding habits and my github pr
 Enjoy ! 🎊
 
 ## ● My most used Languages
-[![Top Langs Card](https://github-readme-stats.vercel.app/api/top-langs/?username=BaKo52&layout=compact&theme=tokyonight&hide=pascal)
+![Top Langs Card](https://github-readme-stats.vercel.app/api/top-langs/?username=BaKo52&layout=compact&theme=tokyonight&hide=pascal)
 
 ## ● My Public projects 📖
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bako52&show_icons=true&theme=tokyonight)
