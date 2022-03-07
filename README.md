@@ -5,7 +5,7 @@ Below you can see some interesting facts about my coding habits and my github pr
 Enjoy ! 🎊
 
 ## ● My most used languages according to Github ⌨️
-![Top Langs Card](https://github-readme-stats.vercel.app/api/top-langs/?username=BaKo52&layout=compact&theme=midnight-purple&hide=pascal)
+![Top Langs Card](https://github-readme-stats.vercel.app/api/top-langs/?username=BaKo52&layout=compact&theme=midnight-purple&hide=pascal,HTML)
 
 ## ● My most used languages according to me 🧔
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
